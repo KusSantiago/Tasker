@@ -1,0 +1,11 @@
+Actor: Usuario
+	- Añadir Tarea / Eliminar Tarea
+	- Crear Lista de Actividades
+	- Observar Progreso
+	- Observar Agenda
+	- Crear Categoria / Eliminar Categoria
+	- Ver Categorias
+	- Ver Widgets
+	- Colocar Widgets / Sacar Widgets
+	- Conectar con Smartwatch
+	- Recibir Recordatorio (Temporal)

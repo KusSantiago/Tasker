@@ -1,0 +1,30 @@
+Cosas que puede hacer el usuario
+-Crear una tarea para hacer a futuro
+	las tareas pueden tener:
+	- una fecha limite
+	- una fecha donde se va a hacer
+	- Un recordatorio
+	- Colocar una categoria a la tarea
+	- Darle un tiempo de repetición(diario, semanal, estos dias)
+
+- Crear tareas sin un tiempo especifico que en cambio se reciba un recordatorio diario de la misma
+
+- Crear una lista de actividades:
+	pueden tener: actividades pueden tener prioridades a otras
+
+- Mostrar analiticas de tareas completadas, falladas
+
+- Conectar con smart watchs
+
+- Crear categorias de tareas
+
+- Crear una agenda de tareas
+
+- Dar widgets para facil acceso a las tareas por hacer
+- Widgets para ver cuantos dias quedan hasta que se de con la fecha de una tarea
+
+- Dar recordatorios
+
+- Crear un sistema de progreso en forma de experiencia 
+
+- 
