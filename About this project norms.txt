@@ -1,4 +1,4 @@
 In this project i'm going to apply the knowledge i have learned from university as my future position of System Analist. 
  I'm going to use multitude of diagrams to express my idea of the aplication. I'm going to use draw.io as my plataform of design, saving everything as XML archives. All text in the diagrams will be on spanish for my ease.
- On the programming side i'll use english for every variable name and else, this for ease of everyone seeing the repository. The language will be decide later.
+ On the programming side i'll use english for every variable name and else, this for ease of everyone seeing the repository. The programming language will be decide later.
  I'll also add an Investigation archiver for everything i discover and might help or not on the way,  being said it will be in spanish.
